@@ -41,10 +41,14 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 - [ ] Give me an example of a project or initiative that you started on your own. What prompted you to get started?
   - **Cause:**
+    - Patient Charts
   - **Action:**
   - **Result:**
 - [ ] Tell me about a time you had to work on several projects at once. How did you handle this?
   - **Cause:**
+    - Insperity Integration
+    - IOS Integration
+    -
   - **Action:**
   - **Result:**
 - [ ] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
